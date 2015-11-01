@@ -5,6 +5,7 @@ Find more details in my [blog post](http://www.dominikschmidt.net/2015/11/scan-a
 
 ## Installation
 * copy shell script and python date parser to /usr/local/bin
+* configure paths at top of ocrwatch.sh
 * create a link to ocrwath.sh in /usr/local/etc/rc.d (to run on startup)
 
 ## Usage
